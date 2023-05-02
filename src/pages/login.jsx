@@ -2,6 +2,7 @@ import React from 'react'
 import { motion } from "framer-motion"
 import { FaFacebookF, FaLinkedinIn, FaRegEnvelope } from 'react-icons/fa'
 import { FcGoogle } from 'react-icons/fc'
+import{Link} from 'react-router-dom'
 import Logo from '../component/Logo'
 import { MdLockOutline } from 'react-icons/md'
 function login() {

@@ -177,9 +177,9 @@ function benefits() {
 
         <div className=' flex items-center  px-28 justify-between w-full md:flex-col md:px-0 sm:ml-0' >
           <div className='my-5 mx-3 text-base font-medium  '>
-            <p className='text-darkGreen text-2xl'>&#10171;  Lets use Health Care here, </p><br />
-            <p className='text-darkGreen text-2xl'>&#10171; It will provide the information for the symptoms, </p><br />
-            <p className='text-darkGreen text-2xl'>&#10171;  Based on this requirements this Ai suggest you Doctors and Hospitals.  </p>
+            <p className='text-darkGreen text-2xl'>&#10171;  Lets use Customer assistant here, </p><br />
+            <p className='text-darkGreen text-2xl'>&#10171; It will provide the information for the based on the user, </p><br />
+            <p className='text-darkGreen text-2xl'>&#10171;  Based on this requirements this Ai will suggest you.  </p>
           </div>
           <div className='w-72 '>
             <img className="h-fit w-screen" src='/Cbot.gif'  />

@@ -80,8 +80,8 @@ function formulas() {
                     <h1 className='text-black font-bold text-4xl'>Formulas</h1>
                     <div className='w-full grid  h-auto ' >
                      
-                        <main className='border  w-2/4 mt-3 border-zinc-300  ' >
-                            <div className='m-2  flex capitalize flex-col border border-zinc-900 ' >
+                        <main className='  w-2/4 mt-3  ' >
+                            <div className='m-2  flex capitalize flex-col  ' >
                                 <label className='text-zinc-500'>Excel ~ Google Sheets </label>
                                 <div className='p-3 font-medium'>
 

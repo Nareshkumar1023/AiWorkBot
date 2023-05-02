@@ -1,5 +1,5 @@
 import { useState } from 'react';
-
+// import Image from 'next/image';
 
 
 
@@ -72,7 +72,7 @@ const GiftGenerator = () => {
                 name="age"
                 min={1}
                 max={99}
-                placeholder="Enter an age"
+                placeholder=" age"
                 value={age}
                 onChange={(e) => setAge(Number.parseInt(e.target.value))}
                 required
@@ -136,7 +136,7 @@ const GiftGenerator = () => {
         {loading && (
           <div >
             {/* <h2 className="text-xl font-bold">Looking for the best gifts 🎁</h2> */}
-            <img src="/GifLoader.gif" className="w-20 h-20" />
+            <img src="/GifLoader.gif" className="w-20 h-20" alt='loading'/>
           </div>
         )}
         <  div className="mt-4">

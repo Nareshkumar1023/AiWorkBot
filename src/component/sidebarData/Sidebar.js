@@ -29,7 +29,6 @@ const Sidebar = () => {
                                 <Link href={val.link} className={router.pathname == "/" ? "active" : ""}>
                                     <div key={key} className='p-1 mt-4 transition ease-in-out delay-150 flex items-center font-medium cursor-pointer rounded-xl
                                     hover:-translate-y-1 hover:scale-80 duration-300 
-
                                     hover:bg-sky-900 hover:text-black ' >
                                         <div className='ml-2 h-full' >
                                             <p className='p-1 text-light '>{val.icon}</p>

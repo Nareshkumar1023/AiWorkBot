@@ -58,7 +58,7 @@ function about() {
                 Have you ever been stuck trying to find an answer to a mundane software question?
               </p>
               <p className='my-7  font-medium'>
-                It can be incredibly time consuming to search through articles and videos to find the answer. Fortunately, advances in artificial intelligence (AI) are providing users with a solution that can help them save time and be more productive. In this blog, I will discuss why I want to create the world's most accurate AI for everyday software questions,
+                It can be incredibly time consuming to search through articles and videos to find the answer. Fortunately, advances in artificial intelligence (AI) are providing users with a solution that can help them save time and be more productive. In this blog, I will discuss why I want to create the world most accurate AI for everyday software questions,
                 who this is designed for, the benefits of the AI model, and how it will be implemented.
               </p>
             </div>

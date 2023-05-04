@@ -16,7 +16,7 @@ const Sidebar = () => {
                         </div>
                     {/* </div> */}
                     <div className='text-light ml-2 font-semi-bold' >
-                        Ai Office Bot
+                        Ai Workplace Bot
                     </div>
                 </div>
                 <div className='mt-4' >
